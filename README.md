@@ -1,2 +1,2 @@
 # goblet_competencies
-Proposed competencies required for a Bioinformatics Engineer
+Proposed competencies required for a Bioinformatics Engineer. This is based on a further development of the roles outlined in "Bioinformatics Curriculum Guidelines: Toward a Definition of Core Competencies" (DOI: 10.1371/journal.pcbi.1003496). These slides are the outcome of a discussion at the GOBLET Bioinformatics Training Best Practices Workshop, held in Cape Town on 16-17 November 2015.
